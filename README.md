@@ -1,5 +1,17 @@
 # 💫 About Me:
-👋 Hi, I'm Chinmaya Pradhan, a Computer Science and Engineering undergraduate at Silicon University with a deep passion for building innovative software solutions. My technical expertise spans full-stack development, Blockchain, and AI/ML technologies, with hands-on experience in Java, C/C++, Python, and JavaScript. 🚀<br><br>I've had the opportunity to work on diverse projects, including a blockchain-based loan settlement system for farmers and a collaborative coding platform integrating smart contracts. I'm constantly driven to learn and tackle complex engineering challenges, leveraging cutting-edge technologies like cloud computing, AI, and DevOps tools. 💡<br><br>Feel free to connect. I'm always excited to explore new opportunities and collaborate on impactful projects! 🤝
+I’m a passionate DevOps and Cloud Engineer with hands-on experience in building scalable, secure cloud infrastructure and automating development workflows. My expertise spans across AWS, GCP, and Azure platforms, combined with a strong background in Java Full Stack Development and AI/ML-based monitoring systems.<br><br>
+
+I’ve worked extensively with tools like Docker, Kubernetes, Terraform, Ansible, and Jenkins to develop CI/CD pipelines that enhance deployment speed and reliability. My projects have included everything from securing cloud environments to deploying ML models on AWS, all with a focus on delivering efficient, secure, and scalable solutions.<br><br>
+
+Here are some highlights of my journey:<br>
+
+1. Cloud Infrastructure Security Automation: Developed a secure multi-cloud deployment pipeline, improving security and reducing downtime by 30%.
+2. AI-Driven Threat Detection: Designed and implemented a real-time monitoring system using AI/ML to predict and prevent security breaches.
+3. Mentor & Leader: Guided students on AWS Cloud and Java Basics.<br><br>
+
+Tech Stack: Java, Python, Docker, Kubernetes, Ansible, Jenkins, Terraform, AWS, GCP, Azure<br><br>
+
+I’m actively seeking opportunities where I can contribute to cloud architecture, DevOps, and scalable solutions while continuing to learn and grow. Feel free to connect with me!
 
 
 # 🌐 Socials:
